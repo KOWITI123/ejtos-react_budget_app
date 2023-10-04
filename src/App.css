@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+
+/* Add this CSS to your stylesheet */
+select option:hover {
+    background-color: #e6e6e6; /* Change to your desired hover color */
+    cursor: pointer;
+}
+

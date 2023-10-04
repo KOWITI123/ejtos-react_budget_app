@@ -1,0 +1,22 @@
+.custom-button {
+    width: 30px;
+    height: 30px;
+    background-color: green;
+    border: none;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+.plus-sign {
+    color: white;
+    font-size: 30px;
+}
+
+.minus-sign {
+    color: white;
+    font-size: 30px;
+    background-color: red; /* Set the background color to red */
+}
